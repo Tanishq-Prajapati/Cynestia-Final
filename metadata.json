@@ -1,0 +1,6 @@
+{
+  "name": "Cynestia | B2B Pipeline Generation for MSPs",
+  "description": "Specialized B2B outbound prospecting, pipeline generation, and marketing automation for U.S. Managed Service Providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
